@@ -6,6 +6,10 @@ public class Main {
                 "nhân nhân nhân "
         );
         System.out.println("hoa");
+        System.out.println("hoa");
+        System.out.println("hoa");
+        System.out.println("hoa");
+
     }
 
 }
