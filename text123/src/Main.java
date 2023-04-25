@@ -5,6 +5,7 @@ public class Main {
         System.out.println(
                 "nhân nhân nhân "
         );
+        System.out.println("hoa");
     }
 
 }
